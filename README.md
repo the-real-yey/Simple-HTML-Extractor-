@@ -5,10 +5,10 @@ A simple extractor based on BeautifulSoup, You can use it to iterate through all
 -BeautifulSoup 4 (version 4.4.0)
 ## 2. Basic Logic
 ### 2.1 Input:
-    path: the url of the website root directory. (eg. 'CurrentRoot/src' ,'C:/User/Wbesite/src' ) Please modify this var before running this script.
+path: the url of the website root directory. (eg. 'CurrentRoot/src' ,'C:/User/Wbesite/src' ) Please modify this var before running this script.
 
-### 2.2 find HTML files:
+### 2.2 Find HTML files:
     the function 'findHTML' will be called to iterate the whole folder and store a list of urls(htmls) of all .html files in this root directory.
 
-### 2.3 extract
+### 2.3 Extract terms:
     the function extract needs one reference nameed path, which should be the url of targer .html which you want to deal with(generally one of the url from htmls list)

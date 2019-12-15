@@ -1,2 +1,2 @@
-# -
-一个简单的基于BeatufulSoup的网站爬取工具， 可以用遍历网站根目录下所有的HTML文件， 并抓取其中的文本，placeholder等文字。
+# -Simple-HTML-Extractor
+A simple extractor based on BeatufulSoup, You can use it to iterate through all the HTML files in the website root directory and get the text, placeholders and other text.

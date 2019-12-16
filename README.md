@@ -78,5 +78,5 @@ extract(path):
 CSV tool is openning file `name.csv` with encoding in `utf-8`, then `extract` function will add new rows including required `Texts`, `Placeholders` and `Mattooltips`.
 
 ## 3. Output
-The ideal output includes two Column `Terms` and `Url`
+The ideal output includes two Column `Term` and `Url` <br>
 ![Output](http://github.com/y441572563/Simple-HTML-Extractor-/raw/master/output.jpg)

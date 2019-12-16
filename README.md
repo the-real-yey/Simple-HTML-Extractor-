@@ -79,4 +79,13 @@ CSV tool is openning file `name.csv` with encoding in `utf-8`, then `extract` fu
 
 ## 3. Output
 The ideal output includes two Column `Term` and `Url` <br>
-![Output](http://github.com/y441572563/Simple-HTML-Extractor-/raw/master/output.jpg)
+
+| Term            | Url                                                                 |
+|-----------------|---------------------------------------------------------------------|
+| Forgot password | src/app/view/account/forgot-password/forgot-password.component.html |
+| close           | src/app/view/account/forgot-password/forgot-password.component.html |
+| Cancel          | src/app/view/account/forgot-password/forgot-password.component.html |
+| Send            | src/app/view/account/forgot-password/forgot-password.component.html |
+| Client Code     | src/app/view/account/forgot-password/forgot-password.component.html |
+| User Name       | src/app/view/account/forgot-password/forgot-password.component.html |
+| ...             | ...                                                                 |
